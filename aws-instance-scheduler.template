@@ -152,7 +152,7 @@
         "1408",
         "1536"
       ],
-      "Description": "Size of the Lambda function running the scheduler, increase size when processing large numbers of instances."
+      "Description": "Size  of the Lambda function running the scheduler, increase size when processing large numbers of instances."
     },
     "UseCloudWatchMetrics": {
       "Type": "String",
